@@ -3,27 +3,27 @@
 
 --- Before Day-2 ---
 I already knew ...
-- [ ] I can navigate the filesystem without clicking — using `cd`, `ls`, and `pwd` only
-- [ ] I can edit a file using `nano` (open, edit, save, exit)
-- [ ] I understand pipes (`|`) and redirection (`>`, `>>`, `2>`) and can chain commands
-- [ ] I can read, search, and inspect files using `cat`, `head`, `tail`, `grep`, and `wc`
-- [ ] I can set an environment variable in `.bashrc` and apply it with `source ~/.bashrc`
-- [ ] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
+-  I can navigate the filesystem without clicking — using `cd`, `ls`, and `pwd` only
+- I can edit a file using `nano` (open, edit, save, exit)
+-  I understand pipes (`|`) and redirection (`>`, `>>`, `2>`) and can chain commands
+-  I can read, search, and inspect files using `cat`, `head`, `tail`, `grep`, and `wc`
+-  I can set an environment variable in `.bashrc` and apply it with `source ~/.bashrc`
+-  I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
 --- 
 
 ## Day-2 Checklist
 
-- [ ] I understand what `PATH` is and why commands like `python` work without full paths
-- [ ] I can navigate the filesystem without clicking — using `cd`, `ls`, and `pwd` only
-- [ ] I understand pipes (`|`) and redirection (`>`, `>>`, `2>`) and can chain commands
-- [ ] I can edit a file using `nano` (open, edit, save, exit)
-- [ ] I can set an environment variable in `.bashrc` and apply it with `source ~/.bashrc`
-- [ ] I can read, search, and inspect files using `cat`, `head`, `tail`, `grep`, and `wc`
-- [ ] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
+- [x] I understand what `PATH` is and why commands like `python` work without full paths
+- [x] I can navigate the filesystem without clicking — using `cd`, `ls`, and `pwd` only
+- [x] I understand pipes (`|`) and redirection (`>`, `>>`, `2>`) and can chain commands
+- [x] I can edit a file using `nano` (open, edit, save, exit)
+- [x] I can set an environment variable in `.bashrc` and apply it with `source ~/.bashrc`
+- [x] I can read, search, and inspect files using `cat`, `head`, `tail`, `grep`, and `wc`
+- [] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
 
 --- After Day-2 ---
 I learned these things as well, apart from the checklist ...
-- [ ] I can edit a file using `nano` (open, edit, save, exit)
+-  I can edit a file using `nano` (open, edit, save, exit)
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
