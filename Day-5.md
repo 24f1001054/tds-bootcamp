@@ -15,7 +15,7 @@ I already knew ...
 ## Day-5 Checklist
 
 - [x] I have set up the basic Git configuration using `git config --global user.name "Your Name"`, `git config --global user.email "your.email@example.com"`, and set the default branch as main using `git config --global init.defaultBranch main`
-- [ ] I know GitHub allows only one user account per person, so I have merged my accounts (IITM and personal) into a single unified account
+- [x] I know GitHub allows only one user account per person, so I have merged my accounts (IITM and personal) into a single unified account
 - [x] I understand the three states of a file in Git: working tree → staging → committed
 - [x] I can run the daily workflow commands `git status`, `git diff`, and `git log` and know what each shows
 - [x] I know how `.gitignore` works and how to use it to ignore files and folders that should not be pushed to the remote repository (e.g., `venv`, `__pycache__`, `.env`)
